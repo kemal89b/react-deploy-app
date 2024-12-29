@@ -1,0 +1,24 @@
+// src/pages/ConfirmationPage.css
+.confirmation-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.confirmation-page h1 {
+  color: #28a745;
+}
+
+.confirmation-page ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.confirmation-page li {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.confirmation-page h3 {
+  margin-top: 20px;
+  font-weight: bold;
+}
